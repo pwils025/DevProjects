@@ -1,0 +1,10 @@
+{
+  "name": "Web Push Demo",
+  "short_name": "WebPushDemo",
+  "description": "A simple web application to demonstrate web push notifications",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}
